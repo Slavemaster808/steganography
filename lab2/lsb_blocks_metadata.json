@@ -1,0 +1,19 @@
+{
+  "method": "lsb_blocks",
+  "block_size": 512,
+  "key_seed": 3400608077,
+  "embedded_bits": 131072,
+  "block_metadata": {
+    "block_size": 512,
+    "n_blocks_h": 1,
+    "n_blocks_w": 1,
+    "total_blocks": 1,
+    "original_shape": [
+      512,
+      512
+    ]
+  },
+  "block_indices": [
+    0
+  ]
+}
